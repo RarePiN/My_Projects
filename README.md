@@ -1,6 +1,6 @@
 # Read Me
 --------------------------------------------------
-All programs in this folder is code by me.
+All programs in this folder are coded by me.
 
 Mainly in python3 and c++.
 
