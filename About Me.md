@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------
-Hello, you probably come from my Insta Profile.
+#Hello, 
+you probably come from my Insta Profile.
 Heres a brief introduction of myself.
 
 I study in LKKC and thats likely why you are following me on Insta.
