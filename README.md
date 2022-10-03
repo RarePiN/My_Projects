@@ -12,7 +12,7 @@ This is just a folder I share my projects with my friends.
 --------------------------------------------------
 Some of them may contain harmful code to your device.
 
-You can download them and run then on your computer.
+You can download them and run them on your computer.
 
 But I am not responsible for any damage done.
 
