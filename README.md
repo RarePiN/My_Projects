@@ -2,11 +2,11 @@
 --------------------------------------------------
 All programs in this folder are coded by me.
 
-Mainly in python3 and c++.
+Mainly in Python3 and C++.
 
-Mostly are just funny little program.
+Mostly are just some funny little programs.
 
-This is just a folder I share my projects with my friends.
+This is just a folder where I share my projects with my friends.
 
 # Disclaimer
 --------------------------------------------------
